@@ -1,0 +1,59 @@
+[
+	{
+	
+	"definitions": 
+				[
+					{
+						"type": "nom",
+						"anglais": "car",
+						"exemple": "He drives a car"
+					}
+				],
+				"word": "gary",
+				"prononciation": "gari"	
+	},
+	
+	{
+	
+	"definitions": 
+				[
+					{
+						"type": "nom",
+						"anglais": "table",
+						"exemple": "We eat on the table"
+					}
+				],
+				"word": "meza",
+				"prononciation": "me'za"
+	},
+
+	{
+	
+	"definitions": 
+				[
+					{
+						"type": "nom",
+						"anglais": "time",
+						"exemple": "Time is money"
+					}
+				],
+				"word": "lera",
+				"prononciation": "le'ra"
+	},
+
+	{
+	
+	"definitions": 
+				[
+					{
+						"type": "verbe",
+						"anglais": "eat",
+						"exemple": "We have not something to eat."
+					}
+				],
+				"word": "hula",
+				"prononciation": "hula"
+	}
+
+
+]
